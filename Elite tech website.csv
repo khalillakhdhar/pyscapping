@@ -1,0 +1,12 @@
+Titres,Programmes
+Semaine 1: Introduction à la Data Science,"– Jour 1: Introduction et objectifs– Qu’est-ce que la data science?– Domaines d’application– Présentation du programme de formation– Jour 2: Environnement de travail– Installation des outils: Anaconda, Jupyter Notebook, Python– Introduction à Python: Syntaxe de base, variables, types de données"
+Semaine 2: Manipulation des Données avec Python,"– Jour 1: Bibliothèques Python pour la data science– Introduction à `pandas`– Introduction à `numpy`– Jour 2: Manipulation des DataFrames– Lecture et écriture de fichiers (CSV, Excel)– Sélection et filtrage de données– Nettoyage des données (gestion des valeurs manquantes, duplication)"
+Semaine 3: Visualisation des Données,"– Jour 1: Visualisation avec Matplotlib– Création de graphiques de base (lignes, barres, histogrammes)– Personnalisation des graphiques– Jour 2: Visualisation avancée avec Seaborn– Diagrammes en boîte, diagrammes de violon– Heatmaps, pair plots"
+Semaine 4: Statistiques Descriptives,"– Jour 1: Concepts de base en statistiques– Moyenne, médiane, mode– Variance, écart-type– Jour 2: Analyses statistiques– Tests de normalité– Corrélations"
+Semaine 5: Préparation des Données pour l’Analyse,"– Jour 1: Transformation des données– Normalisation, standardisation– Encodage des variables catégorielles– Jour 2: Feature Engineering– Création de nouvelles variables– Sélection de variables"
+Semaine 6: Introduction à l’Apprentissage Automatique,– Jour 1: Apprentissage supervisé– Régression linéaire– Arbres de décision– Jour 2: Apprentissage non supervisé– Clustering (K-means)– Réduction de dimensions (PCA)
+Semaine 7: Régression,"– Jour 1: Régression linéaire multiple– Modèles, hypothèses et métriques– Jour 2: Régression logistique– Introduction, applications, évaluation"
+Semaine 8: Classification,"– Jour 1: Algorithmes de classification– KNN, SVM– Jour 2: Évaluation des modèles– Matrices de confusion, courbes ROC"
+Semaine 9: Techniques Avancées,"– Jour 1: Réseaux de neurones artificiels– Concepts de base, mise en œuvre– Jour 2: Techniques de régularisation– Ridge, Lasso, Dropout"
+Semaine 10: Traitement des Données Non Structurées,"– Jour 1: Traitement du texte (NLP)– Pré-traitement du texte– TF-IDF, Word Embeddings– Jour 2: Traitement des images– Introduction aux CNN"
+Semaine 11: Projets Pratiques,– Jour 1: Analyse de données réelles– Travaux pratiques sur des jeux de données réels– Jour 2: Présentation des projets– Préparation et présentation des projets
